@@ -1,2 +1,2 @@
 def test(x):
-	return x+1
+	return x+10
